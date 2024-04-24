@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.](I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.)
 
-- ⚡ Fun fact **What does a Developer say after ignoring security and integration. .....DevOops....**
+- ⚡**What does a Developer say after ignoring security and integration. .....DevOops....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
