@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tiwarisiddhant000@gmail.com**
 
-- 📄 Know about my experiences [I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.](I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.)
+- 📄 Know about my experiences [I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.]
 
 - ⚡**What does a Developer say after ignoring security and integration. .....DevOops....**
 
