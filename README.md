@@ -1,44 +1,25 @@
-# Hi, I'm Siddhant Tiwari 👋
-### DevOps & Cloud Infrastructure Engineer
+<h1 align="center">Hi 👋, I'm Siddhant Tiwari</h1>
+<h3 align="center">Passionate about DevSecOps.</h3>
 
-[![Website](https://img.shields.io/badge/Website-siddhant--tiwari.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddhant-tiwari.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+- 🔭 I’m currently working on **AWS**
 
----
+- 🌱 I’m currently learning **AWS, Kubernetes and CI/CD**
 
-## 🚀 About Me
-I'm a **DevOps enthusiast** focused on building secure, scalable, and cost-efficient cloud infrastructure. My work centers on automation, high-availability systems, and deep observability.
+- 👯 I’m looking to collaborate on **DevOps technologies**
 
-- 🛡️ **Certifications:** AWS Solutions Architect – Associate | RHCSA.
-- 💰 **Impact:** Successfully reduced AWS S3 costs by **88%** and container registry costs by **60%**.
-- 🛠️ **Current Focus:** Optimizing Kubernetes workloads and implementing zero-trust networking.
+- 💬 Ask me about **Linux and RHEL**
 
----
+- 📫 How to reach me **tiwarisiddhant000@gmail.com**
 
-## 🛠️ Technical Ecosystem
-| Category | Tools |
-| :--- | :--- |
-| **Cloud** | AWS (EC2, ECS, S3, IAM, VPC), Hetzner Cloud |
-| **Orchestration** | Kubernetes, Docker, Docker Swarm |
-| **CI/CD & IaC** | GitHub Actions, Terraform, Ansible, Jenkins |
-| **Observability** | Datadog, Prometheus, Grafana, SigNoz |
-| **Networking** | WireGuard VPN, NGINX, Apache |
+- 📄 Know about my experiences [I am RedHat certified System Administrator. I am currently learning AWS and various other DevOps technologies.]
 
----
+- ⚡**What does a Developer say after ignoring security and integration. .....DevOops....**
 
-## 📈 Key Operational Highlights
-- **Cost Engineering:** Implemented lifecycle policies and migration to self-hosted Harbor.
-- **Security:** Secured production database access using WireGuard VPN.
-- **Deployment:** Enabled safe releases using Unleash (Feature Flags) and Canary deployments.
-- **Data:** Built AWS Glue ETL pipelines for high-performance Redshift analytics.
-
----
-
-## 📊 GitHub Stats
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant00tiwari&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant00tiwari&layout=compact&theme=tokyonight)
-
----
-<p align="center">
-  Generated with ❤️ for my portfolio at <a href="https://siddhant-tiwari.com">siddhant-tiwari.com</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/siddhant-tiwari-884653177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siddhant-tiwari-884653177" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
