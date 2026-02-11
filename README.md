@@ -2,7 +2,7 @@
 ### DevOps & Cloud Infrastructure Engineer
 
 [![Website](https://img.shields.io/badge/Website-siddhant--tiwari.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddhant-tiwari.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhant-tiwari-884653177/)
 
 ---
 
